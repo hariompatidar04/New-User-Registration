@@ -45,6 +45,6 @@ It demonstrates how to implement:
 Sample JSON:
 ```json
 {
-  "username": "om",
+  "username": "secure@12",
   "password": "secure123"
 }
